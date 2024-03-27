@@ -1,7 +1,7 @@
-<h1 align="center"> Detection of Motorcyclists without Helmet </h1> <br>
+<h1 align="center">Helmet Detection System </h1> <br>
 <p align="center">
   <a href="#">
-    <img alt="DMH" title="DMH" src="images/logo.png" width="350">
+    <img alt="DMH" title="HDS" src="images/logo.png" width="350">
   </a>
 </p>
 
